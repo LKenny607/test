@@ -1,0 +1,7 @@
+{
+  "name": "lkenny607/sustainable-events",
+  "description": "Sustainable Events PHP Application",
+  "require": {
+    "php": ">=8.2"
+  }
+}
